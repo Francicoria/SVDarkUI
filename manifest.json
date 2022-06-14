@@ -1,0 +1,9 @@
+{
+   "Name": "Dark UI",
+   "Author": "Cicoria",
+   "Version": "1.0.0",
+   "Description": "A description.",
+   "UniqueID": "Cicoria.DarkUI",
+    "MinimumApiVersion": "3.10.0",
+"UpdateKeys": [ "GitHub:Francicoria/SVDarkUI" ]
+}
